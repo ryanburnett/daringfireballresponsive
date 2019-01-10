@@ -8,7 +8,7 @@ There's only one HTML change:
 Replacing:
 
 ```
-> <meta name="viewport" content="width=500, minimum-scale=0.45" />
+<meta name="viewport" content="width=500, minimum-scale=0.45" />
 ```
 
 ...with:
