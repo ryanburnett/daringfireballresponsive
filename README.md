@@ -1,8 +1,8 @@
 # daringfireballresponsive
 
-##Installation
+## Installation
 
-###HTML
+### HTML
 There's only one HTML change:
 
 Replacing:
@@ -17,7 +17,7 @@ Replacing:
 <meta name="viewport" content="width=device-width, initial-scale=1">
 ```
 
-###CSS
+### CSS
 
 The rest of the changes are all in `fireball_screen.css`
 
